@@ -1,0 +1,6 @@
+print("----------------------------------")
+print("         Integrantes\n")
+print("Jeremias Aaron Allende Ramos")
+print("Marcela Carolina Erices Reyes")
+print("Cristian Alejando Avila Arias")
+print("----------------------------------")
